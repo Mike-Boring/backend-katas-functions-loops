@@ -54,7 +54,7 @@ def power(x, n):
 print(power(-2, 2))  # Not sure why my unit test is failing for power
 print(-2 ** 2)  # when this print to terminal proves the proper value is
 # is being generated as they match. I am printing
-#  out the paramaters in the test output so they can
+#  out the paramaters in the test output so they can be
 # tested against these print functions.
 
 
