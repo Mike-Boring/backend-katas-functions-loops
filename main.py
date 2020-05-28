@@ -4,6 +4,7 @@ except for '+' and '-'.
 """
 
 __author__ = "Mike Boring"
+# See notes below power function.
 
 
 def add(x, y):
